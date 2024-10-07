@@ -33,6 +33,6 @@ I love coding, UI and animations.
 <br>
 <div align="center">
 <b>Contact with me:</b><br><br>
-  <a href="https://t.me/so1evoy1"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
+  <a href="https://t.me/so1evoy"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
 </div> 
 

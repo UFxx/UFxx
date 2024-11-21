@@ -28,8 +28,6 @@ I love coding, UI and animations.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
 <br/>
-
-[![codewars](https://www.codewars.com/users/UFxx/badges/large)](https://www.codewars.com/users/username)
   
 ###
 <br>
